@@ -1,7 +1,5 @@
 # Hi, I'm Razan 👋  
-Software Engineer | Full Stack Developer
-
-Passionate about building real-world apps and learning new technologies.
+Software Engineer | Full Stack Developer, Passionate about building real-world apps and learning new technologies.
 
 ### ⚙️ Skills & Expertise:
 - **Languages:** JavaScript, TypeScript, Python
