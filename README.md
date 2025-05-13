@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Razan (she/her)  
+I'm a Software Engineer , Full Stack Developer passionate about building real-world applications and learning new technologies.
 
-<!--
-**razan310/razan310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Skills & Expertise:
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI, Python
+- **Database:** Firebase, PostgreSQL, MongoDB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Some cool projects:
+- **Smart PDF Extractor:** AI-powered tool that extracts property data from real estate PDFs  
+  [Live Demo](https://smart-pdf-frontend-one.vercel.app)
+
+- **Task Manager App:** Full stack task board with drag-and-drop UI using React + Node.js  
+  [GitHub](https://github.com/razan310/task-manager)
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/razan-kurouni-80081033a/))
+- [Email](razankurouni@gmail.com)
+
+---
+
+**Looking forward to collaborating and building amazing things together!**
