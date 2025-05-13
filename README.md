@@ -1,4 +1,4 @@
-# Hi, I'm Razan 👋  
+# Hi, I'm Razan  
 Software Engineer | Full Stack Developer, Passionate about building real-world apps and learning new technologies.
 
 ### ⚙️ Skills & Expertise:
