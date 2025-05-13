@@ -19,8 +19,8 @@ I'm a Software Engineer , Full Stack Developer passionate about building real-wo
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/razan-kurouni-80081033a/))
-- [Email](razankurouni@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/razan-kurouni-80081033a/)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- [Email](mailto:razankurouni@gmail.com)
 
 ---
 
